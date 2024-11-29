@@ -11,6 +11,7 @@ require (
 	github.com/ClickHouse/clickhouse-go v1.4.3
 	github.com/aws/aws-sdk-go v1.49.6
 	github.com/cenkalti/backoff/v4 v4.1.2
+	github.com/cloudspannerecosystem/memefish v0.0.0-20241126143851-bb8d10117087
 	github.com/cockroachdb/cockroach-go/v2 v2.1.1
 	github.com/dhui/dktest v0.4.4
 	github.com/docker/docker v27.2.0+incompatible
